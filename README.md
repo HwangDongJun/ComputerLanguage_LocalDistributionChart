@@ -1,6 +1,6 @@
-# ActivityRecordCheck
+# Local_ComputerLanguage
 
-### 사람들의 gihub 활동 기록을 확인하여 횟수를 구해 ranking을 만든다.
+### github에서 사용자가 사용하는 language의 지역 분포에 대해 알아본다.
 
 1. Using skill
 	- Python
