@@ -1,0 +1,796 @@
+{"index": {"_index": "locations", "_type": "latlon", "_id": "0"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "1"}}
+{"language": "Python", "latitude": 40.650002, "longitude": -73.949997, "geo_location": {"lat": 40.650002, "lon": -73.949997}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "2"}}
+{"language": "Python", "latitude": 37.424107, "longitude": -122.166077, "geo_location": {"lat": 37.424107, "lon": -122.166077}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "3"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "4"}}
+{"language": "Python", "latitude": 34.746483000000005, "longitude": -92.289597, "geo_location": {"lat": 34.746483000000005, "lon": -92.289597}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "5"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "6"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "7"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "8"}}
+{"language": "Python", "latitude": 37.386051, "longitude": -122.083855, "geo_location": {"lat": 37.386051, "lon": -122.083855}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "9"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "10"}}
+{"language": "Python", "latitude": 37.386051, "longitude": -122.083855, "geo_location": {"lat": 37.386051, "lon": -122.083855}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "11"}}
+{"language": "Python", "latitude": 36.174465000000005, "longitude": -86.76796, "geo_location": {"lat": 36.174465000000005, "lon": -86.76796}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "12"}}
+{"language": "Python", "latitude": 39.01405, "longitude": -77.065674, "geo_location": {"lat": 39.01405, "lon": -77.065674}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "13"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "14"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "15"}}
+{"language": "Python", "latitude": 40.764275, "longitude": -73.962799, "geo_location": {"lat": 40.764275, "lon": -73.962799}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "16"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "17"}}
+{"language": "Python", "latitude": 39.01405, "longitude": -77.065674, "geo_location": {"lat": 39.01405, "lon": -77.065674}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "18"}}
+{"language": "Python", "latitude": 33.227345, "longitude": -97.128113, "geo_location": {"lat": 33.227345, "lon": -97.128113}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "19"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "20"}}
+{"language": "Python", "latitude": 42.28093, "longitude": -71.237755, "geo_location": {"lat": 42.28093, "lon": -71.237755}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "21"}}
+{"language": "Python", "latitude": 32.146549, "longitude": -96.870232, "geo_location": {"lat": 32.146549, "lon": -96.870232}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "22"}}
+{"language": "Python", "latitude": 35.791538, "longitude": -78.78112, "geo_location": {"lat": 35.791538, "lon": -78.78112}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "23"}}
+{"language": "Python", "latitude": 48.864715999999994, "longitude": 2.349014, "geo_location": {"lat": 48.864715999999994, "lon": 2.349014}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "24"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "25"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "26"}}
+{"language": "Python", "latitude": 53.35014, "longitude": -6.266155, "geo_location": {"lat": 53.35014, "lon": -6.266155}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "27"}}
+{"language": "Python", "latitude": 37.386051, "longitude": -122.083855, "geo_location": {"lat": 37.386051, "lon": -122.083855}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "28"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "29"}}
+{"language": "Python", "latitude": 48.864715999999994, "longitude": 2.349014, "geo_location": {"lat": 48.864715999999994, "lon": 2.349014}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "30"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "31"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "32"}}
+{"language": "Python", "latitude": 22.302219, "longitude": 114.174637, "geo_location": {"lat": 22.302219, "lon": 114.174637}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "33"}}
+{"language": "Python", "latitude": -1.619644, "longitude": 13.601545999999999, "geo_location": {"lat": -1.619644, "lon": 13.601545999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "34"}}
+{"language": "Python", "latitude": 59.911491000000005, "longitude": 10.757933, "geo_location": {"lat": 59.911491000000005, "lon": 10.757933}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "35"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "36"}}
+{"language": "Python", "latitude": 38.544907, "longitude": -121.740517, "geo_location": {"lat": 38.544907, "lon": -121.740517}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "37"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "38"}}
+{"language": "Python", "latitude": 38.301792, "longitude": -76.51119200000001, "geo_location": {"lat": 38.301792, "lon": -76.51119200000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "39"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "40"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "41"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "42"}}
+{"language": "Python", "latitude": 41.881832, "longitude": -87.623177, "geo_location": {"lat": 41.881832, "lon": -87.623177}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "43"}}
+{"language": "Python", "latitude": 38.301792, "longitude": -76.51119200000001, "geo_location": {"lat": 38.301792, "lon": -76.51119200000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "44"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "45"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "46"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "47"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "48"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "49"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "50"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "51"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "52"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "53"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "54"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "55"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "56"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "57"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "58"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "59"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "60"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "61"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "62"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "63"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "64"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "65"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "66"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "67"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "68"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "69"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "70"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "71"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "72"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "73"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "74"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "75"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "76"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "77"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "78"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "79"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "80"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "81"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "82"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "83"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "84"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "85"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "86"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "87"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "88"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "89"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "90"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "91"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "92"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "93"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "94"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "95"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "96"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "97"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "98"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "99"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "100"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "101"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "102"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "103"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "104"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "105"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "106"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "107"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "108"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "109"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "110"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "111"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "112"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "113"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "114"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "115"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "116"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "117"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "118"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "119"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "120"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "121"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "122"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "123"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "124"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "125"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "126"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "127"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "128"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "129"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "130"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "131"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "132"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "133"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "134"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "135"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "136"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "137"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "138"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "139"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "140"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "141"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "142"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "143"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "144"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "145"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "146"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "147"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "148"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "149"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "150"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "151"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "152"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "153"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "154"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "155"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "156"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "157"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "158"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "159"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "160"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "161"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "162"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "163"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "164"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "165"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "166"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "167"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "168"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "169"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "170"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "171"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "172"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "173"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "174"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "175"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "176"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "177"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "178"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "179"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "180"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "181"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "182"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "183"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "184"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "185"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "186"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "187"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "188"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "189"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "190"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "191"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "192"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "193"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "194"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "195"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "196"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "197"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "198"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "199"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "200"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "201"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "202"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "203"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "204"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "205"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "206"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "207"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "208"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "209"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "210"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "211"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "212"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "213"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "214"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "215"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "216"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "217"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "218"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "219"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "220"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "221"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "222"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "223"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "224"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "225"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "226"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "227"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "228"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "229"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "230"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "231"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "232"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "233"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "234"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "235"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "236"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "237"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "238"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "239"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "240"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "241"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "242"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "243"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "244"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "245"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "246"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "247"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "248"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "249"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "250"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "251"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "252"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "253"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "254"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "255"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "256"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "257"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "258"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "259"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "260"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "261"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "262"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "263"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "264"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "265"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "266"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "267"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "268"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "269"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "270"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "271"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "272"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "273"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "274"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "275"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "276"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "277"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "278"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "279"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "280"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "281"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "282"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "283"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "284"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "285"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "286"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "287"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "288"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "289"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "290"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "291"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "292"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "293"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "294"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "295"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "296"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "297"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "298"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "299"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "300"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "301"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "302"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "303"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "304"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "305"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "306"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "307"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "308"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "309"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "310"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "311"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "312"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "313"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "314"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "315"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "316"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "317"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "318"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "319"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "320"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "321"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "322"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "323"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "324"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "325"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "326"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "327"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "328"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "329"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "330"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "331"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "332"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "333"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "334"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "335"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "336"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "337"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "338"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "339"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "340"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "341"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "342"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "343"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "344"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "345"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "346"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "347"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "348"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "349"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "350"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "351"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "352"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "353"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "354"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "355"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "356"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "357"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "358"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "359"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "360"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "361"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "362"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "363"}}
+{"language": "Python", "latitude": 55.676097999999996, "longitude": 12.568337, "geo_location": {"lat": 55.676097999999996, "lon": 12.568337}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "364"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "365"}}
+{"language": "Python", "latitude": 40.440624, "longitude": -79.995888, "geo_location": {"lat": 40.440624, "lon": -79.995888}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "366"}}
+{"language": "Python", "latitude": 47.608013, "longitude": -122.335167, "geo_location": {"lat": 47.608013, "lon": -122.335167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "367"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "368"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "369"}}
+{"language": "Python", "latitude": 23.17926, "longitude": 77.454422, "geo_location": {"lat": 23.17926, "lon": 77.454422}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "370"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "371"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "372"}}
+{"language": "Python", "latitude": 53.557899, "longitude": -113.48728899999999, "geo_location": {"lat": 53.557899, "lon": -113.48728899999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "373"}}
+{"language": "Python", "latitude": 52.314223999999996, "longitude": 4.941841, "geo_location": {"lat": 52.314223999999996, "lon": 4.941841}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "374"}}
+{"language": "Python", "latitude": 1.29027, "longitude": 103.851959, "geo_location": {"lat": 1.29027, "lon": 103.851959}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "375"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "376"}}
+{"language": "Python", "latitude": 45.815399, "longitude": 15.966567999999999, "geo_location": {"lat": 45.815399, "lon": 15.966567999999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "377"}}
+{"language": "Python", "latitude": 39.056197999999995, "longitude": -95.695312, "geo_location": {"lat": 39.056197999999995, "lon": -95.695312}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "378"}}
+{"language": "Python", "latitude": 41.661128999999995, "longitude": -91.530167, "geo_location": {"lat": 41.661128999999995, "lon": -91.530167}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "379"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "380"}}
+{"language": "Python", "latitude": 39.022774, "longitude": -76.92175300000001, "geo_location": {"lat": 39.022774, "lon": -76.92175300000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "381"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "382"}}
+{"language": "Python", "latitude": 37.468319, "longitude": -122.14393600000001, "geo_location": {"lat": 37.468319, "lon": -122.14393600000001}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "383"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "384"}}
+{"language": "Python", "latitude": 34.052234999999996, "longitude": -118.243683, "geo_location": {"lat": 34.052234999999996, "lon": -118.243683}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "385"}}
+{"language": "Python", "latitude": 48.210033, "longitude": 16.363449, "geo_location": {"lat": 48.210033, "lon": 16.363449}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "386"}}
+{"language": "Python", "latitude": 52.370216, "longitude": 4.895168, "geo_location": {"lat": 52.370216, "lon": 4.895168}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "387"}}
+{"language": "Python", "latitude": 43.073051, "longitude": -89.40123, "geo_location": {"lat": 43.073051, "lon": -89.40123}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "388"}}
+{"language": "Python", "latitude": 0.687796, "longitude": 122.97757, "geo_location": {"lat": 0.687796, "lon": 122.97757}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "389"}}
+{"language": "Python", "latitude": 43.623409, "longitude": -79.36868299999999, "geo_location": {"lat": 43.623409, "lon": -79.36868299999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "390"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "391"}}
+{"language": "Python", "latitude": 22.542883, "longitude": 114.062996, "geo_location": {"lat": 22.542883, "lon": 114.062996}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "392"}}
+{"language": "Python", "latitude": 45.523064, "longitude": -122.676483, "geo_location": {"lat": 45.523064, "lon": -122.676483}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "393"}}
+{"language": "Python", "latitude": 37.733795, "longitude": -122.446747, "geo_location": {"lat": 37.733795, "lon": -122.446747}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "394"}}
+{"language": "Python", "latitude": 39.896042, "longitude": -83.44459499999999, "geo_location": {"lat": 39.896042, "lon": -83.44459499999999}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "395"}}
+{"language": "Python", "latitude": 40.73061, "longitude": -73.935242, "geo_location": {"lat": 40.73061, "lon": -73.935242}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "396"}}
+{"language": "Python", "latitude": 52.520008, "longitude": 13.404954, "geo_location": {"lat": 52.520008, "lon": 13.404954}}
+{"index": {"_index": "locations", "_type": "latlon", "_id": "397"}}
+{"language": "Python", "latitude": 31.224361, "longitude": 121.46916999999999, "geo_location": {"lat": 31.224361, "lon": 121.46916999999999}}
