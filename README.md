@@ -9,7 +9,7 @@
 	- ELK 스택
 
 2. 기본 구조
-![structure](../img/structure.jpg)
+![structure](./img/structure.jpg)
 
 3. 실행 순서 및 파일의 내용
 	- 첫 번째로 "python3 main.py userID:userPWD language" 를 이용하여 원하는 언어에 대한 사람들의 location data를 가져온다. => 해당 결과로 LocationData_langeage.csv 파일이 생성된다. (ex: LocationData_Python.csv)
@@ -22,10 +22,10 @@
 	- curl -XPUT http://localhost:9200/locations/latlon/_mapping -H 'Content-Type:application/json' -d @mapping.json (index에 들어있는 data들의 type등을 설정)
 	- curl -XPOST http://localhost:9200/_bulk?pretty -H 'Content-Type:application/json' --data-binary @location.json (bulk post로 location.json파일의 형태로 data를 삽입)
 	- curl -XGET http://localhost:9200/locations?pretty (해당 정보를 가져오자)
-![elk_get](../img/elk_get.png)
+![elk_get](./img/elk_get.png)
 
 5. Kibana -> Coordinate Map
-![location](../img/location.png)
+![location](./img/location.png)
 
 ---
 
